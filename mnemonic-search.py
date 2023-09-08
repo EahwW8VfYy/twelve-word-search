@@ -18,6 +18,7 @@ wallet_words = ['open', 'olympic', 'income', 'zebra', 'casual', 'asthma', 'tell'
 wallet_xpub = 'xpub661MyMwAqRbcGFoQNuN4CZpAVpR4BH8BpH9gfzhP8yYRecjxRZLt8vbWz6tBsGt3VMYbYB1uVaRivtxMcoUDZri3WJG3C6PfyzwVWhZ3Q77'
 
 # randomize wallet_words for the hunt
+# this line can be commented out for a real search
 random.shuffle(wallet_words)
 
 # counter
