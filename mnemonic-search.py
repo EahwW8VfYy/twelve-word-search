@@ -12,6 +12,8 @@ import random
 import time
 
 # search wallet attributes (just a test wallet)
+# change these to what you are searching for
+# this can and should be done offline if it's a real wallet
 wallet_words = ['open', 'olympic', 'income', 'zebra', 'casual', 'asthma', 'tell', 'enable', 'punch', 'reflect', 'jaguar', 'steak']
 wallet_xpub = 'xpub661MyMwAqRbcGFoQNuN4CZpAVpR4BH8BpH9gfzhP8yYRecjxRZLt8vbWz6tBsGt3VMYbYB1uVaRivtxMcoUDZri3WJG3C6PfyzwVWhZ3Q77'
 
